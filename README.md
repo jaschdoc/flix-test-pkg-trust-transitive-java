@@ -1,0 +1,1 @@
+# flix-test-pkg-trust-transitive-java
